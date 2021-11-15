@@ -5,4 +5,10 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Filters\Exercise0" />
+      <Folder Include="Filters\Exercise1" />
+      <Folder Include="Filters\Exercise2" />
+    </ItemGroup>
+
 </Project>
