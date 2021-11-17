@@ -7,7 +7,6 @@ namespace BasicPipeline.Filters.Exercise1
     {
         protected override void Execute(LongNumber data)
         {
-
             while (data.Result.ToString().Length > 1)
             {
                 var digitSum = 0;
